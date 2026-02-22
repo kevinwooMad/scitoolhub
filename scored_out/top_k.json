@@ -1,0 +1,122 @@
+[
+  {
+    "repo": "plotly/dash",
+    "composite_score": 0.8386930122334368
+  },
+  {
+    "repo": "galaxyproject/galaxy",
+    "composite_score": 0.8198430967188152
+  },
+  {
+    "repo": "PennyLaneAI/pennylane",
+    "composite_score": 0.7714966564397494
+  },
+  {
+    "repo": "biopython/biopython",
+    "composite_score": 0.7554689805960051
+  },
+  {
+    "repo": "deepchem/deepchem",
+    "composite_score": 0.7026768965300685
+  },
+  {
+    "repo": "pyscf/pyscf",
+    "composite_score": 0.6869225363958785
+  },
+  {
+    "repo": "deepmodeling/deepmd-kit",
+    "composite_score": 0.6796619387111316
+  },
+  {
+    "repo": "scverse/scanpy",
+    "composite_score": 0.6750583294732472
+  },
+  {
+    "repo": "MDAnalysis/mdanalysis",
+    "composite_score": 0.6692967412196195
+  },
+  {
+    "repo": "hail-is/hail",
+    "composite_score": 0.6686786818760052
+  },
+  {
+    "repo": "danforthcenter/plantcv",
+    "composite_score": 0.666855077276579
+  },
+  {
+    "repo": "google/deepvariant",
+    "composite_score": 0.6491530830806513
+  },
+  {
+    "repo": "mdtraj/mdtraj",
+    "composite_score": 0.6306233885781658
+  },
+  {
+    "repo": "scikit-bio/scikit-bio",
+    "composite_score": 0.6180158463982903
+  },
+  {
+    "repo": "sib-swiss/training-collection",
+    "composite_score": 0.6003824145803753
+  },
+  {
+    "repo": "biotite-dev/biotite",
+    "composite_score": 0.5983989758299569
+  },
+  {
+    "repo": "BradyAJohnston/MolecularNodes",
+    "composite_score": 0.5915062131460163
+  },
+  {
+    "repo": "allenai/scispacy",
+    "composite_score": 0.5700520847454115
+  },
+  {
+    "repo": "scverse/anndata",
+    "composite_score": 0.5675452335301371
+  },
+  {
+    "repo": "Quantum-Accelerators/quacc",
+    "composite_score": 0.5596406419006817
+  },
+  {
+    "repo": "MolecularAI/REINVENT4",
+    "composite_score": 0.5396294912879864
+  },
+  {
+    "repo": "MolSSI/QCFractal",
+    "composite_score": 0.5223860294268023
+  },
+  {
+    "repo": "materialsproject/atomate2",
+    "composite_score": 0.5204415936301734
+  },
+  {
+    "repo": "log2timeline/dftimewolf",
+    "composite_score": 0.5135259466076061
+  },
+  {
+    "repo": "tanghaibao/jcvi",
+    "composite_score": 0.5124132207943155
+  },
+  {
+    "repo": "owkin/PyDESeq2",
+    "composite_score": 0.5079132670649469
+  },
+  {
+    "repo": "CGATOxford/UMI-tools",
+    "composite_score": 0.5038960269692725
+  },
+  {
+    "repo": "SMTG-Bham/doped",
+    "composite_score": 0.503098108990469
+  },
+  {
+    "repo": "u3dreal/molecular-plus",
+    "composite_score": 0.48376638670470334
+  },
+  {
+    "repo": "zerothi/sisl",
+    "composite_score": 0.47529490928975127
+  }
+]

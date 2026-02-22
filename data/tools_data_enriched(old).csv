@@ -1,0 +1,89 @@
+repo,description,language,license,stars,forks,watchers,open_issues,commits_window,contributors,issue_resolution_rate,days_since_last_update
+microsoft/Graphormer,Graphormer is a general-purpose deep learning backbone for molecular modeling.,Python,MIT,2362,366,28,97,0,13,0.4277,507
+deepmodeling/deepmd-kit,A deep learning package for many-body potential energy representation and molecular dynamics,Python,LGPL-3.0,1776,576,46,114,30,78,0.9122,0
+MDAnalysis/mdanalysis,MDAnalysis is a Python library to analyze molecular dynamics simulations.,Python,NOASSERTION,1477,734,41,487,24,100,0.8191,8
+gcorso/DiffDock,"Implementation of DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking",Python,MIT,1354,321,20,129,0,9,0.5078,179
+BradyAJohnston/MolecularNodes,"Toolbox for molecular animations in Blender, powered by Geometry Nodes.",Python,GPL-3.0,1093,101,19,75,30,28,0.8515,2
+molecularsets/moses,Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models,Python,MIT,933,263,33,31,0,18,0.5614,477
+biotite-dev/biotite,A comprehensive library for computational molecular biology,Python,BSD-3-Clause,880,125,18,42,30,37,0.852,7
+BioPandas/biopandas,Working with molecular structures in pandas DataFrames,Python,BSD-3-Clause,739,117,15,25,0,14,0.6333,452
+LPDI-EPFL/masif,MaSIF- Molecular surface interaction fingerprints. Geometric deep learning to decipher patterns in molecular surfaces.,Python,Apache-2.0,694,163,24,53,0,3,0.0,495
+mdtraj/mdtraj,An open library for the analysis of molecular dynamics trajectories,Python,LGPL-2.1,673,291,45,83,28,100,0.9331,0
+torchmd/torchmd,End-To-End Molecular Dynamics (MD) Engine using PyTorch,Python,MIT,665,84,14,10,0,7,0.6774,285
+MolecularAI/REINVENT4,"AI molecular design tool for de novo design, scaffold hopping, R-group replacement, linker design and molecule optimization.",Python,Apache-2.0,593,173,20,1,28,13,1.0,6
+wengong-jin/icml18-jtnn,Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018),Python,MIT,537,196,18,30,0,2,0.5167,1061
+maxhodak/keras-molecules,Autoencoder network for learning a continuous representation of molecular structures.,Python,MIT,529,147,41,40,0,6,0.3654,452
+CGATOxford/UMI-tools,Tools for handling Unique Molecular Identifiers in NGS data sets,Python,MIT,528,197,33,26,0,28,0.9536,110
+datamol-io/datamol,Molecular Processing Made Easy.,Python,Apache-2.0,514,55,14,13,0,19,0.0,504
+mordred-descriptor/mordred,a molecular descriptor calculator,Python,BSD-3-Clause,441,103,19,53,0,3,1.0,628
+ParmEd/ParmEd,Parameter/topology editor and molecular simulator,Python,,439,163,30,211,0,58,0.7233,61
+MolSSI/cookiecutter-cms,Python-centric Cookiecutter for Molecular Computational Chemistry Packages,Python,MIT,439,91,24,30,0,23,0.7753,1
+wengong-jin/hgraph2graph,Hierarchical Generation of Molecular Graphs using Structural Motifs,Python,MIT,411,116,7,43,0,1,0.2,1218
+pschwllr/MolecularTransformer,,Python,NOASSERTION,396,79,8,1,0,98,0.9524,1288
+MinkaiXu/GeoDiff,Implementation of GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation (ICLR 2022).,Python,MIT,388,83,4,14,0,1,0.5484,895
+MolecularAI/GraphINVENT,Graph neural networks for molecular design.,Python,MIT,377,73,14,10,0,4,0.0,962
+tencent-ailab/grover,This is a Pytorch implementation of the paper: Self-Supervised Graph Transformer on Large-Scale Molecular Data,Python,NOASSERTION,371,78,6,18,0,3,0.1579,126
+robertmartin8/MolecularNotes,My Obsidian Second Brain setup,Python,MIT,359,63,8,4,0,2,0.25,308
+igashov/DiffLinker,DiffLinker: Equivariant 3D-Conditional Diffusion Model for Molecular Linker Design,Python,MIT,357,53,5,7,0,2,0.0,558
+pengxingang/Pocket2Mol,Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets,Python,MIT,352,83,9,24,0,1,1.0,712
+gasteigerjo/dimenet,"DimeNet and DimeNet++ models, as proposed in ""Directional Message Passing for Molecular Graphs"" (ICLR 2020) and ""Fast and Uncertainty-Aware Directional Message Passing for Non-Equilibrium Molecules"" (NeurIPS-W 2020)",Python,NOASSERTION,340,66,3,1,0,1,0.9688,756
+u3dreal/molecular-plus,particle solver for Blender 3.0+ / 4.0+,Python,GPL-3.0,335,22,17,5,30,8,0.9138,0
+MarcusOlivecrona/REINVENT,Molecular De Novo design using Recurrent Neural Networks and Reinforcement Learning,Python,MIT,331,116,18,5,0,2,0.7222,1561
+deepchem/deepchem,"Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology",Python,MIT,6290,1929,141,835,19,100,0.7053,0
+PennyLaneAI/pennylane,"PennyLane is a cross-platform Python library for quantum computing, quantum machine learning, and quantum chemistry. Built by researchers, for research. ",Python,Apache-2.0,2856,705,47,441,30,100,0.8434,0
+pyscf/pyscf,Python module for quantum chemistry,Python,Apache-2.0,1458,650,77,212,30,100,0.0,6
+zh217/torch-dct,DCT (discrete cosine transform) functions for pytorch,Python,MIT,634,74,4,8,0,6,0.0,1087
+yongliang-wu/DFT,[Preprint] On the Generalization of SFT: A Reinforcement Learning Perspective with Reward Rectification.,Python,,483,20,4,1,26,2,0.9615,8
+jkitchin/dft-book,"A book on modeling materials using VASP, ase and vasp",Python,,405,146,42,1,0,3,1.0,452
+usnistgov/jarvis,About JARVIS-Tools: an open-source software package for data-driven atomistic materials design. Publications: https://scholar.google.com/citations?user=3w6ej94AAAAJ https://www.youtube.com/@dr_k_choudhary,Python,NOASSERTION,357,131,22,49,1,11,0.4839,64
+log2timeline/dftimewolf,"A framework for orchestrating forensic collection, processing and data export",Python,Apache-2.0,332,75,24,41,11,43,0.7816,12
+lrjconan/LanczosNetwork,"Lanczos Network, Graph Neural Networks, Deep Graph Convolutional Networks, Deep Learning on Graph Structured Data, QM8 Quantum Chemistry Benchmark, ICLR 2019",Python,MIT,314,65,6,4,0,1,0.6,2202
+materialsvirtuallab/m3gnet,Materials graph network with 3-body interactions featuring a DFT surrogate crystal relaxer and a state-of-the-art property predictor.,Python,BSD-3-Clause,299,70,10,15,0,13,0.5714,203
+mzjb/DeepH-pack,Deep neural networks for density functional theory Hamiltonian.,Python,LGPL-3.0,299,60,6,25,0,8,0.0,386
+quantumlib/OpenFermion-Cirq,Quantum circuits for simulations of quantum chemistry and materials.,Python,Apache-2.0,283,89,38,31,0,15,0.0,1771
+matejak/imreg_dft,Image registration using discrete Fourier transform.,Python,NOASSERTION,270,73,11,23,0,4,0.4762,963
+atomistic-machine-learning/SchNet,SchNet - a deep learning architecture for quantum chemistry,Python,MIT,267,70,13,2,0,1,0.5,2611
+materialsproject/atomate2,atomate2 is a library of computational materials science workflows ,Python,NOASSERTION,248,127,7,69,30,47,0.8147,0
+brain-research/mpnn,"Open source implementation of ""Neural Message Passing for Quantum Chemistry""",Python,Apache-2.0,236,53,6,2,0,1,0.0,3016
+Quantum-Accelerators/quacc,quacc is a flexible platform for computational materials science and quantum chemistry that is built for the big data era.,Python,BSD-3-Clause,227,62,4,33,30,29,0.933,0
+AIRI-Institute/nablaDFT,nablaDFT: Large-Scale Conformational Energy and Hamiltonian Prediction benchmark and dataset,Python,MIT,223,24,3,3,0,6,0.8846,222
+SMTG-Bham/doped,"doped is a Python software for the generation, pre-/post-processing and analysis of defect supercell calculations, implementing the defect simulation workflow in an efficient, reproducible, user-friendly yet powerful and fully-customisable manner.",Python,MIT,219,36,15,7,25,10,0.9405,7
+zerothi/sisl,Electronic structure Python package for post analysis and large scale tight-binding DFT/NEGF calculations,Python,MPL-2.0,216,64,15,100,30,11,0.0,0
+MolSSI/QCEngine,Quantum chemistry program executor and IO standardizer (QCSchema).,Python,BSD-3-Clause,191,84,13,62,3,43,1.0,88
+romerogroup/pyprocar,A Python library for electronic structure pre/post-processing,Python,GPL-3.0,190,81,17,119,30,12,0.2901,6
+MolSSI-BSE/basis_set_exchange,A repository for quantum chemistry basis sets,Python,BSD-3-Clause,184,54,15,98,0,15,0.5896,96
+MolSSI/QCElemental,"Periodic table, physical constants, and molecule parsing for quantum chemistry.",Python,BSD-3-Clause,176,72,8,53,2,34,0.593,21
+MolSSI/QCFractal,A distributed compute and database platform for quantum chemistry. ,Python,BSD-3-Clause,155,52,15,38,30,25,0.8871,3
+rpmuller/pyquante2,Python Quantum Chemistry Reloaded. This is a rewrite of the standard PyQuante program to clean up things that have been nagging me.,Python,NOASSERTION,155,63,35,4,0,4,0.5714,574
+theochem/tinydft,A minimalistic atomic Density Functional Theory (DFT) code,Python,GPL-3.0,141,29,8,1,5,2,1.0,0
+molmod/psiflow,scalable molecular simulation,Python,MIT,137,15,3,13,29,4,0.0,15
+ifding/graph-neural-networks,Graph Neural Networks for Quantum Chemistry,Python,,127,33,2,0,0,0,1.0,2740
+diffqc/dqc,Differentiable Quantum Chemistry (only Differentiable Density Functional Theory and Hartree Fock at the moment),Python,Apache-2.0,118,14,3,4,0,2,0.7857,1325
+plotly/dash,Data Apps & Dashboards for Python. No JavaScript Required.,Python,MIT,24206,2225,422,577,30,100,0.7393,3
+biopython/biopython,Official git repository for Biopython (originally converted from CVS),Python,NOASSERTION,4783,1845,166,560,30,100,0.7437,0
+google/deepvariant,DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.,Python,BSD-3-Clause,3537,762,155,6,11,30,0.9958,7
+scverse/scanpy,Single-cell analysis in Python. Scales to >100M cells.,Python,BSD-3-Clause,2238,674,48,579,30,100,0.7393,0
+dmis-lab/biobert,Bioinformatics'2020: BioBERT: a pre-trained biomedical language representation model for biomedical text mining,Python,NOASSERTION,2160,478,61,57,0,6,0.6914,806
+allenai/scispacy,A full spaCy pipeline and models for scientific/biomedical documents.,Python,Apache-2.0,1893,247,45,38,11,26,0.0,27
+galaxyproject/galaxy,Data intensive science for everyone.,Python,NOASSERTION,1637,1095,63,2588,30,100,1.0,0
+lightaime/deep_gcns_torch,"Pytorch Repo for DeepGCNs (ICCV'2019 Oral, TPAMI'2021), DeeperGCN (arXiv'2020) and GNN1000(ICML'2021): https://www.deepgcns.org",Python,MIT,1180,156,14,6,0,6,0.9,1184
+sib-swiss/training-collection,Collection of bioinformatics training materials,Python,NOASSERTION,1068,189,44,1,8,5,0.9853,2
+kblin/ncbi-genome-download,Scripts to download genomes from the NCBI FTP servers,Python,Apache-2.0,1041,179,32,45,0,14,0.6959,92
+hail-is/hail,Cloud-native genomic dataframes and batch computing,Python,MIT,1032,255,50,291,30,82,0.906,0
+scikit-bio/scikit-bio,"scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.",Python,BSD-3-Clause,985,285,52,242,28,84,0.7782,0
+moshi4/pyCirclize,"Circular visualization in Python (Circos Plot, Chord Diagram, Radar Chart)",Python,MIT,987,54,8,4,30,1,0.9365,24
+aqlaboratory/proteinnet,Standardized data set for machine learning of protein structure,Python,MIT,904,134,52,16,0,4,0.0,1804
+tanghaibao/jcvi,"Python library to facilitate genome assembly, annotation, and comparative genomics",Python,BSD-2-Clause,867,194,34,53,2,18,1.0,65
+applied-bioinformatics/An-Introduction-To-Applied-Bioinformatics,Interactive lessons in bioinformatics.,Python,NOASSERTION,861,314,73,44,0,28,0.7068,1561
+dib-lab/khmer,"In-memory nucleotide sequence k-mer counting, filtering, graph traversal and more",Python,NOASSERTION,780,297,67,353,0,61,0.7009,619
+awslabs/dgl-lifesci,Python package for graph neural networks in chemistry and biology,Python,Apache-2.0,776,161,14,32,0,20,0.6706,726
+deeptools/deepTools,Tools to process and analyze deep sequencing data.,Python,NOASSERTION,741,218,37,178,0,37,0.8376,97
+danforthcenter/plantcv,Plant phenotyping with image analysis,Python,MPL-2.0,734,271,45,119,30,63,0.8714,0
+vsbuffalo/bds-files,"Supplementary files for my book, ""Bioinformatics Data Skills""",Python,MIT,697,375,67,17,0,2,0.1579,2570
+owkin/PyDESeq2,A Python implementation of the DESeq2 pipeline for bulk RNA-seq DEA.,Python,MIT,687,79,9,46,15,26,0.7516,0
+scverse/anndata,Annotated data.,Python,BSD-3-Clause,668,176,13,269,30,50,0.7509,0
+Edinburgh-Genome-Foundry/DnaFeaturesViewer,:eye: Python library to plot DNA sequence features (e.g. from Genbank files),Python,MIT,659,102,16,36,0,8,0.0,117
+plotly/dash-cytoscape,"Interactive network visualization in Python and Dash, powered by Cytoscape.js",Python,MIT,655,124,26,68,1,20,0.4783,79
+chapmanb/bcbb,"Incubator for useful bioinformatics code, primarily in Python and R",Python,,632,242,55,19,0,25,0.7848,265
+ysig/GraKeL,A scikit-learn compatible library for graph kernels,Python,NOASSERTION,630,103,7,13,0,22,0.9022,94
+gamcil/clinker,Gene cluster comparison figure generator,Python,MIT,620,74,15,46,0,6,0.5208,337

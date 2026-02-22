@@ -1,0 +1,15 @@
+dash
+pennylane
+deepchem
+mdtraj
+plantcv
+scanpy
+anndata
+biopython
+dft
+pycirclize
+doped
+pyscf
+atomate2
+MDAnalysis
+scikit-bio

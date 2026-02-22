@@ -1,0 +1,242 @@
+{
+  "name": "sci-tools",
+  "version": "0.2.0",
+  "description": "Curated scientific toolset generated from GitHub metrics.",
+  "source_csv": "tools_data.csv",
+  "tools": [
+    {
+      "id": "dash",
+      "repo": "plotly/dash",
+      "language": "Python",
+      "pip": "dash",
+      "import_test": "dash",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "deepchem",
+      "repo": "deepchem/deepchem",
+      "language": "Python",
+      "pip": "deepchem",
+      "import_test": "deepchem",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "biopython",
+      "repo": "biopython/biopython",
+      "language": "Python",
+      "pip": "biopython",
+      "import_test": "Bio",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "galaxy",
+      "repo": "galaxyproject/galaxy",
+      "language": "Python",
+      "pip": "galaxy",
+      "import_test": "galaxy",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "pennylane",
+      "repo": "PennyLaneAI/pennylane",
+      "language": "Python",
+      "pip": "pennylane",
+      "import_test": "pennylane",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "graphormer",
+      "repo": "microsoft/Graphormer",
+      "language": "Python",
+      "pip": "graphormer",
+      "import_test": "graphormer",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "scanpy",
+      "repo": "scverse/scanpy",
+      "language": "Python",
+      "pip": "scanpy",
+      "import_test": "scanpy",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "scispacy",
+      "repo": "allenai/scispacy",
+      "language": "Python",
+      "pip": "scispacy",
+      "import_test": "scispacy",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "deepmd-kit",
+      "repo": "deepmodeling/deepmd-kit",
+      "language": "Python",
+      "pip": "deepmd-kit",
+      "import_test": "deepmd_kit",
+      "score_Q": null,
+      "install_via": "conda"
+    },
+    {
+      "id": "MDAnalysis",
+      "repo": "MDAnalysis/mdanalysis",
+      "language": "Python",
+      "pip": "MDAnalysis",
+      "import_test": "MDAnalysis",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "pyscf",
+      "repo": "pyscf/pyscf",
+      "language": "Python",
+      "pip": "pyscf",
+      "import_test": "pyscf",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "hail",
+      "repo": "hail-is/hail",
+      "language": "Python",
+      "pip": "hail",
+      "import_test": "hail",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "deep_gcns_torch",
+      "repo": "lightaime/deep_gcns_torch",
+      "language": "Python",
+      "pip": "deep_gcns_torch",
+      "import_test": "deep_gcns_torch",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "molecularnodes",
+      "repo": "BradyAJohnston/MolecularNodes",
+      "language": "Python",
+      "pip": "molecularnodes",
+      "import_test": "molecularnodes",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "plantcv",
+      "repo": "danforthcenter/plantcv",
+      "language": "Python",
+      "pip": "plantcv",
+      "import_test": "plantcv",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "training-collection",
+      "repo": "sib-swiss/training-collection",
+      "language": "Python",
+      "pip": "training-collection",
+      "import_test": "training_collection",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "scikit-bio",
+      "repo": "scikit-bio/scikit-bio",
+      "language": "Python",
+      "pip": "scikit-bio",
+      "import_test": "scikit_bio",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "ncbi-genome-download",
+      "repo": "kblin/ncbi-genome-download",
+      "language": "Python",
+      "pip": "ncbi-genome-download",
+      "import_test": "ncbi_genome_download",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "pycirclize",
+      "repo": "moshi4/pyCirclize",
+      "language": "Python",
+      "pip": "pycirclize",
+      "import_test": "pycirclize",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "biotite",
+      "repo": "biotite-dev/biotite",
+      "language": "Python",
+      "pip": "biotite",
+      "import_test": "biotite",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "moses",
+      "repo": "molecularsets/moses",
+      "language": "Python",
+      "pip": "moses",
+      "import_test": "moses",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "proteinnet",
+      "repo": "aqlaboratory/proteinnet",
+      "language": "Python",
+      "pip": "proteinnet",
+      "import_test": "proteinnet",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "jcvi",
+      "repo": "tanghaibao/jcvi",
+      "language": "Python",
+      "pip": "jcvi",
+      "import_test": "jcvi",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "khmer",
+      "repo": "dib-lab/khmer",
+      "language": "Python",
+      "pip": "khmer",
+      "import_test": "khmer",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "dgl-lifesci",
+      "repo": "awslabs/dgl-lifesci",
+      "language": "Python",
+      "pip": "dgl-lifesci",
+      "import_test": "dgl_lifesci",
+      "score_Q": null,
+      "install_via": "pip"
+    },
+    {
+      "id": "deeptools",
+      "repo": "deeptools/deepTools",
+      "language": "Python",
+      "pip": "deeptools",
+      "import_test": "deeptools",
+      "score_Q": null,
+      "install_via": "pip"
+    }
+  ]
+}

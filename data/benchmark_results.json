@@ -1,0 +1,122 @@
+[
+  {
+    "name": "bio",
+    "label": "-",
+    "passed": null,
+    "skipped": true,
+    "elapsed_s": 0.0,
+    "detail": "no test case defined"
+  },
+  {
+    "name": "biopython",
+    "label": "version",
+    "passed": true,
+    "skipped": false,
+    "elapsed_s": 0.01,
+    "detail": "{\"ok\":true,\"result\":\"1.85\"}\n"
+  },
+  {
+    "name": "dash",
+    "label": "version",
+    "passed": true,
+    "skipped": false,
+    "elapsed_s": 0.02,
+    "detail": "{\"ok\":true,\"result\":\"3.2.0\"}\n"
+  },
+  {
+    "name": "datamol",
+    "label": "version",
+    "passed": true,
+    "skipped": false,
+    "elapsed_s": 0.06,
+    "detail": "{\"ok\":true,\"result\":\"0.12.5\"}\n"
+  },
+  {
+    "name": "deepchem",
+    "label": "version",
+    "passed": true,
+    "skipped": false,
+    "elapsed_s": 0.02,
+    "detail": "{\"ok\":true,\"result\":\"2.8.0\"}\n"
+  },
+  {
+    "name": "dft",
+    "label": "module import",
+    "passed": true,
+    "skipped": false,
+    "elapsed_s": 0.13,
+    "detail": "{\"ok\":true,\"result\":\"<module 'dft' from 'E:\\\\\\\\anaconda\\\\\\\\envs\\\\\\\\sci-tools-py311\\\\\\\\Lib\\\\\\\\site-packages\\\\\\\\dft\\\\\\\\__init__.py'>\"}\n"
+  },
+  {
+    "name": "parmed",
+    "label": "version",
+    "passed": true,
+    "skipped": false,
+    "elapsed_s": 0.89,
+    "detail": "{\"ok\":true,\"result\":\"4.3.0\"}\n"
+  },
+  {
+    "name": "pennylane",
+    "label": "version",
+    "passed": true,
+    "skipped": false,
+    "elapsed_s": 7.51,
+    "detail": "{\"ok\":true,\"result\":\"0.43.0\"}\n"
+  },
+  {
+    "name": "plantcv",
+    "label": "module import",
+    "passed": true,
+    "skipped": false,
+    "elapsed_s": 0.03,
+    "detail": "{\"ok\":true,\"result\":\"<module 'plantcv' from 'E:\\\\\\\\anaconda\\\\\\\\envs\\\\\\\\sci-tools-py311\\\\\\\\Lib\\\\\\\\site-packages\\\\\\\\plantcv\\\\\\\\__init__.py'>\"}\n"
+  },
+  {
+    "name": "pycirclize",
+    "label": "version",
+    "passed": true,
+    "skipped": false,
+    "elapsed_s": 0.52,
+    "detail": "{\"ok\":true,\"result\":\"1.10.1\"}\n"
+  },
+  {
+    "name": "pydeseq2",
+    "label": "version",
+    "passed": true,
+    "skipped": false,
+    "elapsed_s": 0.03,
+    "detail": "{\"ok\":true,\"result\":\"0.5.2\"}\n"
+  },
+  {
+    "name": "scikit-bio",
+    "label": "version",
+    "passed": true,
+    "skipped": false,
+    "elapsed_s": 0.9,
+    "detail": "{\"ok\":true,\"result\":\"0.7.0\"}\n"
+  },
+  {
+    "name": "scispacy",
+    "label": "spacy version (for scispacy)",
+    "passed": true,
+    "skipped": false,
+    "elapsed_s": 0.02,
+    "detail": "{\"ok\":true,\"result\":\"3.8.7\"}\n"
+  },
+  {
+    "name": "skbio",
+    "label": "version",
+    "passed": true,
+    "skipped": false,
+    "elapsed_s": 0.02,
+    "detail": "{\"ok\":true,\"result\":\"0.7.0\"}\n"
+  },
+  {
+    "name": "spacy",
+    "label": "version",
+    "passed": true,
+    "skipped": false,
+    "elapsed_s": 0.02,
+    "detail": "{\"ok\":true,\"result\":\"3.8.7\"}\n"
+  }
+]

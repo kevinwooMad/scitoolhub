@@ -1,0 +1,135 @@
+[
+  {
+    "package": "dash",
+    "import_name": "dash",
+    "imported": false,
+    "version": null,
+    "error": "No module named 'dash'"
+  },
+  {
+    "package": "deepchem",
+    "import_name": "deepchem",
+    "imported": false,
+    "version": null,
+    "error": "No module named 'deepchem'"
+  },
+  {
+    "package": "kivymd",
+    "import_name": "kivymd",
+    "imported": false,
+    "version": null,
+    "error": "No module named 'kivymd'"
+  },
+  {
+    "package": "redun",
+    "import_name": "redun",
+    "imported": false,
+    "version": null,
+    "error": "No module named 'redun'"
+  },
+  {
+    "package": "histolab",
+    "import_name": "histolab",
+    "imported": false,
+    "version": null,
+    "error": "No module named 'histolab'"
+  },
+  {
+    "package": "dance",
+    "import_name": "dance",
+    "imported": false,
+    "version": null,
+    "error": "No module named 'dance'"
+  },
+  {
+    "package": "cell2location",
+    "import_name": "cell2location",
+    "imported": false,
+    "version": null,
+    "error": "No module named 'cell2location'"
+  },
+  {
+    "package": "sevennet",
+    "import_name": "sevennet",
+    "imported": false,
+    "version": null,
+    "error": "No module named 'sevennet'"
+  },
+  {
+    "package": "snakefmt",
+    "import_name": "snakefmt",
+    "imported": false,
+    "version": null,
+    "error": "No module named 'snakefmt'"
+  },
+  {
+    "package": "indra",
+    "import_name": "indra",
+    "imported": false,
+    "version": null,
+    "error": "No module named 'indra'"
+  },
+  {
+    "package": "dandelion",
+    "import_name": "dandelion",
+    "imported": false,
+    "version": null,
+    "error": "No module named 'dandelion'"
+  },
+  {
+    "package": "so3lr",
+    "import_name": "so3lr",
+    "imported": false,
+    "version": null,
+    "error": "No module named 'so3lr'"
+  },
+  {
+    "package": "viscy",
+    "import_name": "viscy",
+    "imported": false,
+    "version": null,
+    "error": "No module named 'viscy'"
+  },
+  {
+    "package": "openff-interchange",
+    "import_name": "openff-interchange",
+    "imported": false,
+    "version": null,
+    "error": "No module named 'openff-interchange'"
+  },
+  {
+    "package": "scispacy",
+    "import_name": "scispacy",
+    "imported": false,
+    "version": null,
+    "error": "No module named 'scispacy'"
+  },
+  {
+    "package": "pairtools",
+    "import_name": "pairtools",
+    "imported": false,
+    "version": null,
+    "error": "No module named 'pairtools'"
+  },
+  {
+    "package": "renormalizer",
+    "import_name": "renormalizer",
+    "imported": false,
+    "version": null,
+    "error": "No module named 'renormalizer'"
+  },
+  {
+    "package": "materialsearch",
+    "import_name": "materialsearch",
+    "imported": false,
+    "version": null,
+    "error": "No module named 'materialsearch'"
+  },
+  {
+    "package": "grappa",
+    "import_name": "grappa",
+    "imported": false,
+    "version": null,
+    "error": "No module named 'grappa'"
+  }
+]

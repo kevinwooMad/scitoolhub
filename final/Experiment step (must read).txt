@@ -1,0 +1,56 @@
+
+1. python discover_repos.py
+(get repos.csv containing about 923 repos)
+
+2. python gh_enrich.py repos.csv tools_data_enriched.csv
+(to enrich the repos' metadata)
+
+3. python score_tools_v2.py --input tools_data_enriched.csv --outdir scored_out_v2
+(output : 
+	scored_out_v2\ranked_tools_v2.csv
+	scored_out_v2\top20_v2.json
+	semantic_clusters.json
+)
+
+4. python generate_env.py --top_json scored_out_v2\top20_v2.json --outdir scored_out_v2
+(output : 
+	requirements_top20_windows.txt
+	requirements_top20_raw.txt
+	env_report.md
+)
+
+5. python mcp_server.py
+(If seen "Running on http://127.0.0.1:8008", then it's ok, don't close it)
+
+6. python run_benchmarks.py --server http://127.0.0.1:8008 --json scored_out_v2\top20_v2.json --topn 20
+(output : 
+	benchmark_results.json
+	benchmark_results.md
+)
+
+7. python analyze_results.py --input benchmark_results.json --outdir analysis_out --topn 20
+(output : 
+	analysis_out\benchmark_analysis.csv
+	analysis_out\analysis_results.md
+	analysis_out\latency_bar.png
+	analysis_out\pass_fail_pie.png
+)
+
+8. python merge_scores_with_bench.py ^
+  --ranked_csv scored_out_v2\ranked_tools_v2.csv ^
+  --bench_json benchmark_results.json ^
+  --out scored_out_v2\final_scored.csv ^
+  --alpha_repo 0.7 --beta_bench 0.3
+(output: 
+	scored_out_v2\final_scored.csv
+)
+
+9. python analyze_final_scores.py --csv scored_out_v2\final_scored.csv --outdir final_analysis --topn 30
+(output: 
+	final_analysis\score_distribution.png
+	final_analysis\bench_vs_composite.png
+	final_analysis\star_vs_score.png
+	final_analysis\summary_stats.csv
+	final_analysis\top30_tools.csv
+	final_analysis\final_analysis.md
+)
